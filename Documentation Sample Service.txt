@@ -1,0 +1,8 @@
+To use Service
+1. First you must implement Intent Service for know what the difference betwen service
+2. Next make file specific for service
+3. First implement Companion object and init, then make onBind to null also make new function onStartCommand
+4. To terminate the program you can use onDestroy
+5. Lastly implement methode in Main Activity or fragment
+
+Note: methode service is for running app in background, for example is play music, maps, etc
