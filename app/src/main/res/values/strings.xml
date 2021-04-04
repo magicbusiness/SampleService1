@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Service</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="text_service_notification">Text Service Notification</string>
+    <string name="data_string">Data String</string>
+    <string name="send_data">Send Data</string>
+</resources>
